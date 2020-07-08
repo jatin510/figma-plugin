@@ -1,0 +1,7 @@
+{
+  "name": "Code Extraction Plugin",
+  "id": "861331259383511661",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
